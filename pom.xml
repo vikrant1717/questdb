@@ -85,6 +85,9 @@
             </plugin>
         </plugins>
     </build>
+  <properties>
+  <sonar.organization>vikrant1717</sonar.organization>
+  </properties>
     <modules>
         <module>core</module>
         <module>benchmarks</module>
